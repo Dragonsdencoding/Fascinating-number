@@ -1,0 +1,20 @@
+/*
+Fascinating Number:When a 3 digit number(n) is concatinated with the multiple of 2 and 3(n*2,n*3)and we get
+a number which contains all the digits 1 to 9
+exactly once.Such a three digit number is known as fascinating number.
+
+Note:There could be any no. of zeroes ,but they are ignored.But all the other digits from 1 to 9 must
+occured only once.
+
+for example:
+
+273 is a fascinating number.
+
+273*1=273
+273*2=546
+273*3=819
+
+After concatinating all the numbers,we get the final number 273546819.
+As you can see all the no.s from 1 to 9 occured once.
+*/
+ 
